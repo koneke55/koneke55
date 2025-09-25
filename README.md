@@ -23,6 +23,7 @@
 <!-- **Status now : Serving military until December 2025**.>
 </p>
 <!--social media-->
+<!--
 <div align="center">
 <a href="https://www.kaggle.com/zeyadusf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadusf" height="30" width="40" />
@@ -51,7 +52,7 @@
 </a> 
 
 
-</div>
+</div>>>>>>>>>
 
 
 # 🚀 Languages and Tools:
