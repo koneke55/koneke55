@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
+# ![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
 
 <!--<div align= "center">
   
