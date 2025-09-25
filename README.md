@@ -20,7 +20,7 @@
 <p style="font-family:verdana">
  AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs/Transformers and Cognitive Science.
 
- ## > **Status now : Serving military until December 2025**.
+<!-- **Status now : Serving military until December 2025**.>
 </p>
 <!--social media-->
 <div align="center">
@@ -68,7 +68,7 @@
 </div>
 <!--3d ani-->
 
-
+<!--
 
 
 # 📈  Stats:
@@ -89,14 +89,14 @@
 ![svg](./profile-3d-contrib/profile-green-animate.svg)
 
 
- 
+
 </div>
 <hr>
 <!--snake-->
-
+ 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
