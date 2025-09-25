@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
@@ -6,7 +7,7 @@
 
 <!--<div align= "center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad++El-Sayed...;I%E2%80%99m+Machine+Learning+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Sambou++Kone...;I%E2%80%99m+Machine+Learning+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 </div>-->
 <div align= "center">
   
@@ -137,3 +138,4 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+*/
