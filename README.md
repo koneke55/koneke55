@@ -11,16 +11,16 @@
 </div>-->
 <div align= "center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Sambou++Kone...;I%E2%80%99m+AI+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Sambou++Kone...;I%E2%80%99m+AI+Research Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 </div>
 
 # 🎯 About Me :
 
 
 <p style="font-family:verdana">
- AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs and Transformers.
+ AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs/Transformers and Cognitive Science.
 
-  > **Status now : Serving military until December 2025**.
+ ## > **Status now : Serving military until December 2025**.
 </p>
 <!--social media-->
 <div align="center">
