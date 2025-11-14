@@ -1,6 +1,6 @@
 # Hi there, I'm Sambou Kone 👋
 
-**AI Engineer | Hardware, HCI &  Quantium Machine Learning**
+**AI Engineer | Hardware & Machine Learning**
 
 I'm passionate about developing intelligent systems that solve complex, real-world challenges. My work sits at the intersection of research and application, primarily focusing on:
 
