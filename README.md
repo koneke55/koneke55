@@ -6,7 +6,6 @@ I'm passionate about developing intelligent systems that solve complex, real-wor
 
 - **🤖 AI in Medical Diagnostics:** Leveraging deep learning for image analysis and diagnostic assistance.
 - **🚀 Smart Autonomous Systems:** Building robust and adaptive intelligent agents.
-- **🗣️ Multilingual NLP:** Breaking down language barriers with inclusive language technologies.
 
 ## 🔧 Specializations
 - **Computer Vision & Multimodal Learning:** Vision-language models, VLA, and visual understanding systems
