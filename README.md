@@ -2,11 +2,7 @@
 
 **AI Engineer | Hardware & Machine Learning**
 
-I'm passionate about developing intelligent systems that solve complex, real-world challenges. My work sits at the intersection of research and application, primarily focusing on:
-
-- **🤖 AI in Medical Diagnostics:** Leveraging deep learning for image analysis and diagnostic assistance.
-- **🚀 Smart Autonomous Systems:** Building robust and adaptive intelligent agents.
-
+I'm passionate about developing intelligent systems that solve complex, real-world challenges.
 ## 🔧 Specializations
 - **Computer Vision & Multimodal Learning:** Vision-language models, VLA, and visual understanding systems
 - **Reinforcement Learning & AI Robotics**Intelligent agents, robot learning, autonomous systems, and human-robot interaction
