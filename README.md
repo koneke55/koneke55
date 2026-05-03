@@ -15,3 +15,4 @@ I'm passionate about developing intelligent systems that solve complex, real-wor
 - [Personal Website/Blog](https://koneke55.github.io/sk/)
 
 *"Bridging the gap between cutting-edge AI research and tangible real-world impact."*
+   
