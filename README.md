@@ -1,6 +1,6 @@
 # Hi there, I'm Sambou Kone 👋
 
-**AI Engineer | Hardware & Machine Learning**
+**AI | Hardware & Machine Learning**
        
 I'm passionate about developing intelligent systems that solve complex, real-world challenges.
 ## 🔧 Specializations
