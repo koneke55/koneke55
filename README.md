@@ -103,28 +103,6 @@ class SambouKone:
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=koneke55&show_icons=true&theme=tokyonight&bg_color=0d0d0d&title_color=00f5ff&icon_color=a0a0ff&text_color=ffffff&border_color=1a1a2e&rank_icon=github&hide_border=false" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koneke55&layout=compact&theme=tokyonight&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_color=1a1a2e&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=koneke55&theme=tokyonight&background=0d0d0d&border=1a1a2e&ring=00f5ff&fire=a0a0ff&currStreakLabel=00f5ff&sideLabels=ffffff&dates=888888" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=koneke55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
-
-*"Bridging the gap between cutting-edge AI research and tangible real-world impact."*
 
 </div>
