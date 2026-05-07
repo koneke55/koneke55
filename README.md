@@ -101,6 +101,4 @@ class SambouKone:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
-
 </div>
