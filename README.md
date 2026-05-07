@@ -1,7 +1,5 @@
 <div align="center">
- 
-<!-- Animated Header Wave — capsule-render (very reliable) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=220&section=header&text=Sambou%20Koné&fontSize=62&fontColor=00f5ff&fontAlignY=40&desc=AI%20%7C%20Hardware%20%26%20Machine%20Learning%20Engineer&descColor=a0a0ff&descAlignY=60&descSize=17&animation=fadeIn" />
+
 
 <br/>
 
