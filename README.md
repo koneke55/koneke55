@@ -48,10 +48,6 @@ class SambouKone:
         return f"Engineer({self.name}) → Impact(∞)"
 ```
 
----
-
----
-
 <div align="center">
 
 ## 🛠️ Tech Stack
