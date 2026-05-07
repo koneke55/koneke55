@@ -50,21 +50,6 @@ class SambouKone:
 
 ---
 
-<div align="center">
-
-## ⚡ Specializations
-
-| 🔬 Domain | 🛠️ Focus Areas |
-|---|---|
-| 👁️ **Computer Vision & Multimodal Learning** | Vision-Language Models · VLA · Visual Understanding |
-| 🤖 **Reinforcement Learning & AI Robotics** | Intelligent Agents · Robot Learning · Human-Robot Interaction |
-| 🔌 **Embedded AI Systems** | Real-time AI · VLSI · FPGA · Microcontrollers |
-| ⚛️ **Quantum Machine Learning** | Quantum Computing Paradigms for Enhanced ML |
-| 📡 **Deep Learning for Signal Processing** | Battery Management · Speech · Biomedical Signals |
-| 🎓 **Human Learning & AI** | Cognitive Science principles applied to Machine Intelligence |
-
-</div>
-
 ---
 
 <div align="center">
