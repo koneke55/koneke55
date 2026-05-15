@@ -48,38 +48,6 @@ class SambouKone:
         return f"Engineer({self.name}) → Impact(∞)"
 ```
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
-
-**AI / ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-**Hardware & Embedded**
-
-![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![VLSI](https://img.shields.io/badge/VLSI%20Design-6e40c9?style=for-the-badge&logoColor=white)
-
-</div>
 
 ---
 
-<div align="center">
-
-</div>
