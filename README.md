@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**AI / Hardware Co-Design Enthusiast**
 
 Exploring the intersection of intelligent systems and physical architecture — where algorithms meet silicon, and design is a dialogue between mind and machine.
 
